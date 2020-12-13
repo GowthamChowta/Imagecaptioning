@@ -1,10 +1,11 @@
+# Imagecaptioning
+
 Data:
 https://www.kaggle.com/shadabhussain/flickr8k
 
 Project Goal:
 Give an image, generate an automatic caption for the image.
 
-# Imagecaptioning
-Image captioning using encoder-decoder models
-
+Model:
 ### Enoder - Resnet50 with image net weights
+### Decoder - LSTM and dense layer
