@@ -6,6 +6,6 @@ https://www.kaggle.com/shadabhussain/flickr8k
 Project Goal:
 Give an image, generate an automatic caption for the image.
 
-Model:
-### Enoder - Resnet50 with image net weights
-### Decoder - LSTM and dense layer
+### Model:
+Enoder - Resnet50 with image net weights
+Decoder - LSTM and dense layer
